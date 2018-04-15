@@ -8,7 +8,7 @@ Only **Two files are required.** :
 1. VueAnnotate.ts
 2. VueCompat.ts.
 
-## Exemple 
+# Exemple 
 
       @VueClass()  
       export default class ClassName extends Vue {  
